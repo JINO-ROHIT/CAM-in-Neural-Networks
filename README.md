@@ -29,4 +29,5 @@ that acts negatively towards our decision i.e the neurons that
 fired and gave some value for the wrong class. We zero out the
 negative gradients and the rest remains the same.
 
+## VGG16 Architecture
 ![vgg](vgg16.png)
